@@ -1,4 +1,4 @@
-# Image-Slider-Implementation- https://stately-eclair-bd5661.netlify.app/
+Image-Slider-Implementation- https://stately-eclair-bd5661.netlify.app/
 
 
 
